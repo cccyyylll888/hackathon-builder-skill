@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hackathon Builder"
+  short_description: "Plan and ship hackathon MVPs end to end."
+  default_prompt: "Use $hackathon-builder to turn my hackathon requirements, timeline, team skills, and idea into an MVP plan, docs, demo, poster, and pitch."
